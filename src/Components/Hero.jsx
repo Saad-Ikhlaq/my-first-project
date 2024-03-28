@@ -2,7 +2,7 @@ const HeroSection = () => {
   return (
     <main className="hero container">
       <div className="hero-content-container">
-        <h1>YOUR FEET DESERVE THE BEST</h1>
+        <h1>YOUR FEET DESERVE THE BEST Shoes</h1>
         <p>
           YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR
           SHOES.YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR
