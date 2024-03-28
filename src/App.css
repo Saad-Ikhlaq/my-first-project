@@ -44,3 +44,32 @@ nav ul {
   line-height: 102px;
   font-size: 108px;
 }
+.hero p {
+  font-weight: 600;
+  color: var(--gray);
+  max-width: 400px;
+}
+.hero-btn {
+  display: flex;
+  gap: 40px;
+  font-size:  24px;
+}
+.second-btn {
+  background: transparent;
+  color: var(--gray);
+  border: 1px solid;
+}
+.shopping {
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.brand-icons {
+  display: flex;
+  gap: 16px;
+}
+.hero-content-container{
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+}
